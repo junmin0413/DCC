@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large datasets and generated training artifacts
+project/GPR_dataset/
+project/labels_yolo/
+project/*.zip
+project/h100/runs/
+project/scripts/output/
+
+# Model weights
+*.pt

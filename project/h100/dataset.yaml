@@ -1,0 +1,6 @@
+path: /home/wkdwnsals0413/labels_yolo
+train: /home/wkdwnsals0413/labels_yolo/images/train
+val: /home/wkdwnsals0413/labels_yolo/images/val
+test: /home/wkdwnsals0413/labels_yolo/images/test
+nc: 5
+names: ["bounding box", "bounding patch", "bounding pipe", "bounding manhole", "bounding cavity"]
